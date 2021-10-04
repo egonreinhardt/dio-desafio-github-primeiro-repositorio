@@ -6,4 +6,8 @@ Download Git: https://git-scm.com/downloads
 
 -Comando "git status" mostra se há algum arquivo na pasta pendente para ser commitado;
 
--etc
+-Comando "git add ." adiciona tudo o que está untracked (pendente) ao status staged (está no repositório local);
+
+-Comando 'git commit -m "comentário"' adiciona arquivos de stage para commited (gera o commit localmente);
+
+-Comando "git push origin main" publicará o commit local.
