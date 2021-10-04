@@ -1,0 +1,9 @@
+Download Git: https://git-scm.com/downloads
+
+-Ao clicar com o botão direito em uma pasta e escolher "Git Bash here", o Git Bash vai abrir com a pasta em questão já selecionada;
+
+-Comando "git clone [link do repopsitório]" clona o repositório na pasta selecionada;
+
+-Comando "git status" mostra se há algum arquivo na pasta pendente para ser commitado;
+
+-etc
